@@ -1,1 +1,1 @@
-# calculators-android
+The Simple Calculator is simply a calculator that can perform basic functions like addition, subtraction, multiplication and division. The Tip Calculator asks for user input of cost, number of people, and desired tip percentage. The cost, total tip, and tip per person is calculated and displayed. Both apps have voice output for the final answer, so it can be read to you through your phone.
